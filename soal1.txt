@@ -1,0 +1,6 @@
+GUI merupakan sebuah antarmuka yang bersifat visual.
+Berinteraksi dengan pengguna melalui bentuk-bentuk visual.
+Bersifat user-friendly dan intuitif.
+
+CLI merupakan sebuah antarmuka yang dimana pengguna langsung berinteraksi dengan sistem melalui baris-baris perintah.
+Biasanya lebih cepat dijalankan dan menawarkan kontrol yang lebih tinggi dibandingkan GUI.
