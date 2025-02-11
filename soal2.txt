@@ -1,0 +1,6 @@
+mkdir = membuat direktori baru\
+cd = berpindah direktori
+echo = menampilkan ke layar terminal atau memasukkan output ke dalam file
+dir = menampilkan list direktori pada lokasi yang bersangkutan
+del = menghapus file
+rmdir = menghapus direktori kosong
