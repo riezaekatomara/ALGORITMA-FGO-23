@@ -1,0 +1,7 @@
+1. Mulai
+2. Masukkan Jumlah Pembelian
+3. Tentukan diskon
+4. Jika pembelian kurang dari 500.000 maka tampilkan hasil Jumlah Pembelian dikali 0 persen
+5. Jika pembelian lebih dari atau sama dengan 500.000 dan kurang dari atau sama dengan 1.000.000 maka tampilkan hasil Jumlah Pembelian dikali 5 persen
+6. Jika pembelian lebih dari 1.000.000 maka tampilkan hasil Jumlah Pembelian dikali 10 persen
+7. Selesai
