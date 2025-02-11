@@ -1,0 +1,15 @@
+1. Mulai
+2. Bangun Tidur
+3. Ke Kamar Mandi
+4. Ambil Air Wudhu
+5. Keluar dari Kamar Mandi
+6. Sholat Qobliyah Subuh dan Sholat Subuh
+7. Belajar
+8. Ke Kamar Mandi
+9. Sikat Gigi, Mandi, dll
+10. Keluar dari Kamar Mandi
+11. Berpakaian rapi
+12. Beli Sarapan
+13. Sarapan
+14. Masuk Kelas
+15. Selesai
